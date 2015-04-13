@@ -1,0 +1,14 @@
+that that that
+if if if
+and and and
+now! !now %now
+for for for
+4 4 4
+& ( *
+there should be 3 of each word
+there should be 3 of each word
+there /should be 3 /of each word
+
+.and, .no. punct.uation
+.and, .no. punct.uation
+.and, .no. punct.uation
